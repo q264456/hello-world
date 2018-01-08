@@ -1,5 +1,5 @@
-~~: plugin
-~~: ColorPicker          = ctrl+shift+c//取色器
+1. plugin
+2. ColorPicker          = ctrl+shift+c//取色器
 ~~: DocBlockr            = //注释
 ~~:	Emmet                = //前端神器
 ~~: HTML-CSS-JS Prettify = ctrl+shift+h//html/css/javascript美化
