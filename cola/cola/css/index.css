@@ -1,0 +1,25 @@
+@import url(base/reset.css);
+.hcolor, #wrap > h1 {
+  background-color: #d6d65c; }
+
+#wrap {
+  position: fixed;
+  width: 100%;
+  height: 100%; }
+
+#wrap > h1 {
+  border: 1px solid gray;
+  text-align: right; }
+
+.test {
+  position: relative;
+  z-index: 999;
+  top: 1px;
+  left: 0;
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  border: 1px solid gray;
+  background-color: #66cc; }
+
+/*# sourceMappingURL=index.css.map */
